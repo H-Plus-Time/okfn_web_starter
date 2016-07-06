@@ -1,0 +1,9 @@
+{
+  "//name": "frost-kicker",
+  "//reinstall": "But already my desire and my will were being turned like a wheel, all at one speed!a",
+  
+	"scripts": {
+		"preinstall": "bash ./install/setup-project.sh",
+		"start": "bash launch.sh"
+	}
+}
