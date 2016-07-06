@@ -9,3 +9,7 @@ This is the base HyperDev app, rewritten in Python using Flask
   package.json to force an install (I added a field to do so, just add something there and you'll force a reinstall!)
 - If you only need to edit the source code, then it's ok! Just edit it 
   and it will work
+
+# Install procedured
+ - pip install -r requirements.txt
+ - python server.py
